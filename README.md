@@ -20,7 +20,7 @@ Get collective list of free APIs for use in software and web development.
 HTML, CSS, Bootstrap and Vannila JavaScript
 
 ## 🚀 Demo
-You can see live demo [here](https://apihub.vercel.app).
+You can see live demo [here](https://apih-ub.vercel.app).
 
 ## 🛠 API
 
